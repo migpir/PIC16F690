@@ -1,0 +1,11 @@
+SRS-1: The software shall measure the response time answer of the student once the math problem is displayed.
+SRS-2: The sosftware shall store the student's response time in a csv file.
+SRS-3: The software shall store the multiplicand, multiplier and product in a csv file.
+SRS-4: The software shall present random multiplication problems in whole integers.
+SRS-5: The software shall generate a multiplier in the range 1-12
+SRS-6: The software shall generate a multiplicand in the range 1-12
+SRS-7: The software shall generate a product equal to the multiplication of the multiplicand and the multiplier.
+SRS-8: The software shall store the product in a csv file
+SRS-9: The software shall create a moving average of the student response time on a cell x cell basis such that each cell in a 12 x 12 table will have an entry
+SRS-10: The software shall maintain a 12 x 12 matrix corresponding to each generated problem.
+SRS-11: The software shall provide a means to display graphically the student's progress. 
